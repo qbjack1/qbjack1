@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @qbjack1
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @qbjack1. I go by QB, or Jack.
+
+- 👀 I’m interested in:
+- Reading
+- Table Tennis
+- Computers
+- Gaming
+
 - 🌱 I’m currently learning ...
+
 - 💞️ I’m looking to collaborate on ...
-- 📫 Email: jack.quinones.business@gmail.com
+
+- 📫 Email: 
+- jack.quinones.business@gmail.com
 
 <!---
 qbjack1/qbjack1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
