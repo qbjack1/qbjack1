@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in: Reading, Table Tennis, Computers, Gaming (Singleplayer)
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning computer science, looking to extend my knowledge beyond engineering!
 
 - 💞️ I’m looking to collaborate on ...
 
