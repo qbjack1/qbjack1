@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in: Reading, Table Tennis, Tech, Gaming (Singleplayer)
 
-- 🌱 I’m currently learning computer science, looking to extend my knowledge beyond engineering!
+- 🌱 I’m currently learning advanced computer science, looking to specialize in Data Science.
 
 - 📫 Email: jack.quinones.business@gmail.com
 
