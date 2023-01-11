@@ -4,8 +4,6 @@
 
 - 🌱 I’m currently learning computer science, looking to extend my knowledge beyond engineering!
 
-- 💞️ I’m looking to collaborate on ...
-
 - 📫 Email: jack.quinones.business@gmail.com
 
 - Will add more soon!
