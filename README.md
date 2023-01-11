@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qbjack1. I go by QB, or Jack. Either is fine. :)
+- 👋 Hi, I’m @qbjack1. I go by QB, or Jack; Either is fine. :)
 
 - 👀 I’m interested in: Reading, Table Tennis, Tech, Gaming (Singleplayer)
 
