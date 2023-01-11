@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qbjack1. I go by QB, or Jack; Either is fine. :)
 
-- 👀 I’m interested in: Reading, Table Tennis, Tech, Gaming (Singleplayer)
+- 👀 I’m interested in: Reading, Table Tennis, Gaming (Singleplayer), Tech stuff
 
 - 🌱 I’m currently learning advanced computer science, looking to specialize in Data Science.
 
